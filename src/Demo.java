@@ -10,7 +10,7 @@ public class Demo
 		// again change
 		int b=20   ;
 		int c=30;
-		int sum =a+b;;
+		int sum =a+b;;;
 		System.out.println(sum);;
 
 	}
